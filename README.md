@@ -3,11 +3,15 @@
 These are my VsCode configurations.
 For use them just paste in settings.json in your Vscode.
 
+
+
 {
+
+    {
     "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.editor.labelFormat": "short",
-
+    
     "editor.fontFamily": "fira code",
     "editor.tabSize": 2,
     "editor.fontSize": 16,
@@ -35,4 +39,5 @@ For use them just paste in settings.json in your Vscode.
     "terminal.integrated.defaultProfile.osx": "zsh",
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.fontFamily": "monospace"
+    }
 }
